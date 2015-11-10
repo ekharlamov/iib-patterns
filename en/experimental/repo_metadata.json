@@ -164,8 +164,8 @@
             [
               { "number" : 1.0,
                 "valid_for_product_version": [ "10*" ],
-                "feature_group_name" : "com.ibm.etools.mft.pattern.fp.rd.mq.Feature.feature.group",
-                "nl_feature_group_name" : "com.ibm.etools.mft.pattern.fp.rd.mq.Feature.NL.feature.group",
+                "feature_group_name" : "com.ibm.etools.mft.pattern.fp.archive.Feature.feature.group",
+                "nl_feature_group_name" : "com.ibm.etools.mft.pattern.fp.archive.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/record-distribution-mq-oneway-pattern/releases/download/2.0.0.0/FileToMQPattern.v1000.patternzip",
                 "patternzipSize" : "777 KB"
