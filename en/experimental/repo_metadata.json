@@ -176,7 +176,7 @@
             "id" : "com.ibm.etools.mft.pattern.sen.sf.onewayackmq",
             "name": "MQ one-way with acknowledgement",
             "category_id": "com.ibm.etools.mft.pattern.sen.sf",
-            "doc_url": "http://ot4i.github.io/service-facade-mq-request-response-pattern/pattern/en/overview.htm",
+            "doc_url": "http://ot4i.github.io/service-facade-mq-oneway-ack-pattern/pattern/en/overview.htm",
             "ibm_supported": false,
             "versions" :
             [
