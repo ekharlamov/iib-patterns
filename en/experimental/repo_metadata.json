@@ -186,7 +186,7 @@
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.mbi.archive.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/message-splitter-mq-oneway-xml-pattern/releases/download/1.0.0.0/MessageBasedIntegration.V1000.patternzip",
-                "patternzipSize" : "777 KB"
+                "patternzipSize" : "4.31 MB"
               }
             ]
         },
@@ -276,7 +276,7 @@
                 "nl_feature_group_name" : "com.ibm.etools.mft.pattern.sv.archive.Feature.NL.feature.group",
                 "qualifier" : "1.0.0.0",
                 "patternzipURL" : "https://github.com/ot4i/service-proxy-static-endpoint-pattern/releases/download/1.0.0.0/ServiceProxyIntegration.V1000.patternzip",
-                "patternzipSize" : "1,77 MB"
+                "patternzipSize" : "1.77 MB"
               }
             ]
         }
