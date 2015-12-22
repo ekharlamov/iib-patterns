@@ -11,13 +11,13 @@
             "id": "com.ibm.etools.mft.pattern.application.integration",
             "name": "Application Integration",
             "parent_category_id": "com.ibm.etools.pattern",
-            "doc_url": "http://ekharlamov.github.io/patterns/en/categories/com.ibm.etools.mft.pattern.application.integration/overview.htm"
+            "doc_url": "http://ot4i.github.io/patterns/en/categories/com.ibm.etools.mft.pattern.application.integration/overview.htm"
         },
         {
             "id": "com.ibm.etools.mft.pattern.bpm.integration",
             "name": "BPM",
             "parent_category_id": "com.ibm.etools.mft.pattern.application.integration",
-            "doc_url": "http://ekharlamov.github.io/patterns/en/categories/com.ibm.etools.mft.pattern.bpm.integration/overview.htm"
+            "doc_url": "http://ot4i.github.io/patterns/en/categories/com.ibm.etools.mft.pattern.bpm.integration/overview.htm"
         },
         {
             "id": "com.ibm.etools.mft.pattern.fp",
